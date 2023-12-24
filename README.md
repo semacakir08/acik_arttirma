@@ -24,6 +24,8 @@ Bu kodda structure olarak arttirma,urun,teklif bulunmaktadır.
 ![93e5efff-aea3-4015-811f-eca14ae4e308](https://github.com/semacakir08/acik_arttirma/assets/153114298/2918822e-118f-49d4-ac01-f4618010994f)
 
 # kod
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
