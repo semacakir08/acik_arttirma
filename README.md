@@ -1,4 +1,4 @@
 # acik_arttirma
-program hakkında
-skdlsd
+# program hakkında
+
 
