@@ -26,12 +26,12 @@ Bu kodda structure olarak arttirma,urun,teklif bulunmaktadır.
 # kod
 
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
+	#include <stdio.h>
+	#include <stdlib.h>
+	#include <string.h>
+	#include <stdbool.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+	/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 	//teklif yapÄ±sÄ±nÄ± oluÅŸturalÄ±m
 	typedef struct {
